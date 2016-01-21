@@ -1,7 +1,7 @@
 package com.test;
 
 public class Demo {
-
+private int serial_no;
 	/**
 	 * @param args
 	 */
